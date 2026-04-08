@@ -1,9 +1,9 @@
 ---
 layout: project_page
 permalink: /
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
-authors: A. M. Turing
-affiliations: King's College, Cambridge
+title: Self-Gudied Low Light Object Detection Framework
+authors: Gwangik Shin, Jaeha Song, Soonmin Hwang
+affiliations: Hanyang University
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
