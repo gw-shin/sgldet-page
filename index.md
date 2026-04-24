@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 title: Self-Gudied Low Light Object Detection Framework
-authors: "Gwangik Shin, <a href='https://www.linkedin.com/in/archiiive99/' target='_blank'>Jaeha Song</a>, Soonmin Hwang"
+authors: "<a href='https://www.linkedin.com/in/gwangik-shin/' target='_blank'>Gwangik Shin</a>, <a href='https://www.linkedin.com/in/archiiive99/' target='_blank'>Jaeha Song</a>, Soonmin Hwang"
 affiliations: Hanyang University
 paper: https://openreview.net/pdf?id=MGgAJ8yy2D
 video: https://www.youtube.com/results?search_query=turing+machine
