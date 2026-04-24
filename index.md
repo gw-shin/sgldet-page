@@ -70,13 +70,9 @@ Turing's paper laid the foundation for the theory of computation and had a profo
 
 ## Citation
 ```
-@article{turing1936computable,
-  title={On computable numbers, with an application to the Entscheidungsproblem},
-  author={Turing, Alan Mathison},
-  journal={Journal of Mathematics},
-  volume={58},
-  number={345-363},
-  pages={5},
-  year={1936}
+@inproceedings{shinself,
+  title={Self-Guided Low Light Object Detection Framework},
+  author={Shin, Gwangik and Song, Jaeha and Hwang, Soonmin},
+  booktitle={The Fourteenth International Conference on Learning Representations}
 }
 ```
