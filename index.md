@@ -5,7 +5,7 @@ title: Self-Gudied Low Light Object Detection Framework
 authors: "<a href='https://www.linkedin.com/in/gwangik-shin/' target='_blank'>Gwangik Shin</a>, <a href='https://www.linkedin.com/in/archiiive99/' target='_blank'>Jaeha Song</a>, <a href='https://soonminhwang.github.io/' target='_blank'>Soonmin Hwang</a>"
 affiliations: Hanyang University
 paper: https://openreview.net/pdf?id=MGgAJ8yy2D
-video: https://www.youtube.com/results?search_query=turing+machine
+video: 
 code: https://github.com/gw-shin/SGLDet
 # data: https://huggingface.co/docs/datasets
 ---
